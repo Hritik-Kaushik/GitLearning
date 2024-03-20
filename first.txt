@@ -1,0 +1,4 @@
+this is a test file for git learning course
+i want this to go to commit 2
+
+this is changed now
